@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/day5/D5p1/D5p1.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/native/day5/D5p1/D5p1.ko /home/pi/device-drivers/native/day5/D5p1/D5p1.o /home/pi/device-drivers/native/day5/D5p1/D5p1.mod.o;  true

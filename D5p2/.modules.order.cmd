@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/day5/D5p2/modules.order := {   echo /home/pi/device-drivers/native/day5/D5p2/D5p2.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/native/day5/D5p2/modules.order
